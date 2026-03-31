@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cercle d'accentuation Menthe (Couleur secondaire de l'app) -->
+    <path
+        android:fillColor="#00BFA5"
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0" />
+
+    <!-- Chapeau de diplômé blanc au centre -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,35 L32,46 L54,57 L76,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,52 L42,62 C42,62 54,68 66,62 L66,52 L54,58 Z" />
+
+    <!-- Petit symbole "+" pour évoquer les notes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,58 L78,58 L78,62 L80,62 L80,58 L84,58 L84,56 L80,56 L80,52 L78,52 L78,56 L74,56 Z" />
+</vector>
